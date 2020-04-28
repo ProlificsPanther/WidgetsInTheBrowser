@@ -5,16 +5,16 @@ A simple HTML Template and Panther screen that shows smooth migration of Panther
 Panther Web 5.5*
 
 # This repository consists of 4 files
-* Panther screen with name Profile
-* Profile.html
-* Profile.css
-* Profile.js
+* Panther screen with name profile
+* profile.html
+* profile.css
+* profile.js
 
 # Profile screen
-Panther Profile screen contains various Panther widgets like grid, single line text filelds, multiline text filelds, dropdowns, tabs etc.
+Panther profile screen contains various Panther widgets like grid, single line text filelds, multiline text filelds, dropdowns, tabs etc.
 
 # Profile.html
-HTML template is attached to the Panther Profile screen via property WEB OPTION->HTML OPTIONs->HTML Template .
+HTML template is attached to the Panther profile screen via property WEB OPTION->HTML OPTIONs->HTML Template .
 
 # Profile.css
 Cascading Style Sheets(CSS) file contains requirements like classes and ids provided to HTML tags.
