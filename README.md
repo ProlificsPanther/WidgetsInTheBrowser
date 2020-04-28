@@ -1,6 +1,14 @@
 # WidgetsInTheBrowser
 A simple HTML Template and Panther screen that shows smooth migration of Panther widgets in the web browser. Below is the screenshots of Panther client screen and its migration in web browser of Profile Template. Latest Bootstrap libraries were used to transform the plan screen into a modern, responsive screen. It includes most of the Panther widgets with Bootstrap Datatable.
 
+Profile client screen
+
+![](ProfileClient.PNG)
+
+Profile web screen
+
+![](ProfileWeb.PNG)
+
 # Prerequisites
 Panther Web 5.5*
 
