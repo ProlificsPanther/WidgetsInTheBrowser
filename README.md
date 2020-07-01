@@ -1,5 +1,5 @@
 # WidgetsInTheBrowser
-A simple HTML Template and Panther screen that shows a smooth migration of Panther widgets in the web browser. Below are screenshots of a Panther client screen and its migrated screen . Latest Bootstrap libraries were used to transform the plain screen into a modern, responsive screen. It includes most of the Panther widgets with Bootstrap Datatable.
+A simple HTML Template and Panther screen that demonstrates a smooth migration of Panther widgets in the web browser. Below are screenshots of a Panther client screen and its migrated screen . Latest Bootstrap libraries were used to transform the plain screen into a modern, responsive screen. It includes most of the Panther widgets with Bootstrap Datatable.
 
 Profile client screen
 
