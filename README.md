@@ -1,5 +1,5 @@
 # WidgetsInTheBrowser
-A simple HTML Template and Panther screen that shows smooth migration of Panther widgets in the web browser. Below is the screenshots of Panther client screen and its migration in web browser of Profile Template. Latest Bootstrap libraries were used to transform the plan screen into a modern, responsive screen. It includes most of the Panther widgets with Bootstrap Datatable.
+A simple HTML Template and Panther screen that shows a smooth migration of Panther widgets in the web browser. Below are screenshots of a Panther client screen and its migrated screen . Latest Bootstrap libraries were used to transform the plain screen into a modern, responsive screen. It includes most of the Panther widgets with Bootstrap Datatable.
 
 Profile client screen
 
@@ -19,7 +19,7 @@ Panther Web 5.5*
 * profile.js
 
 # Profile screen
-Panther profile screen contains various Panther widgets like grid, single line text filelds, multiline text filelds, dropdowns, tabs etc.
+Panther profile screen containing various Panther widgets like grid, single line text filelds, multiline text filelds, dropdowns, tabs etc.
 
 # Profile.html
 HTML template is attached to the Panther profile screen via property WEB OPTION->HTML OPTIONs->HTML Template .
@@ -31,8 +31,6 @@ Cascading Style Sheets(CSS) file contains requirements like classes and ids prov
 Javascript file contains requirements like generating a Bootstrap Datatable for Panther grid.
 
 Need a Panther Web 552 Redhat Image? [Click Here](https://hub.docker.com/r/prolificspanther/pantherweb "Named link title") 
-
-[Click Here](https://prolifics.com/panther-trial-license-request/ "Named link title") for a 45-day license.
 
 How to set up a Panther Servlet Web Application? [Click Here](https://github.com/ProlificsPanther/PantherWeb/releases "Named link title")
 
